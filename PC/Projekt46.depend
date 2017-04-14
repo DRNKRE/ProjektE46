@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1460603982 source:e:\_school\hackathon\cathacks\2016\projekt46\serial.cpp
+	<iostream>
+	"Serial.h"
+
+1460603984 e:\_school\hackathon\cathacks\2016\projekt46\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1460605640 source:e:\_school\hackathon\cathacks\2016\projekt46\main.cpp
+	<iostream>
+	<Windows.h>
+	"Serial.h"
+	"sharedmemory.h"
+
+1460290654 e:\_school\hackathon\cathacks\2016\projekt46\sharedmemory.h
+
